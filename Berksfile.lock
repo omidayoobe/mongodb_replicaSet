@@ -1,0 +1,7 @@
+DEPENDENCIES
+  mongodb
+    git: https://github.com/omidayoobe/final_mongo_replica_cookbook.git
+    revision: 62d466942e9c1a2e232d5281ca586288f8bf234e
+
+GRAPH
+  mongodb (0.1.0)
